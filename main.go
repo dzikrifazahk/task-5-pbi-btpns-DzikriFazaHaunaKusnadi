@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/marvellzulfikar/task-5-pbi-btpns-MuhammadMarvellZulfikar/controllers/photoscontroller"
-	"github.com/marvellzulfikar/task-5-pbi-btpns-MuhammadMarvellZulfikar/database"
+	"github.com/dzikrifazahk/task-5-pbi-btpns-DzikriFazaHaunaKusnadi/controllers/photoscontroller"
+	"github.com/dzikrifazahk/task-5-pbi-btpns-DzikriFazaHaunaKusnadi/database"
 
 	"github.com/gin-gonic/gin"
 )

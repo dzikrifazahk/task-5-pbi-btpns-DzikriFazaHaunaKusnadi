@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/marvellzulfikar/task-5-pbi-btpns-MuhammadMarvellZulfikar/database"
-	"github.com/marvellzulfikar/task-5-pbi-btpns-MuhammadMarvellZulfikar/models"
+	"github.com/dzikrifazahk/task-5-pbi-btpns-DzikriFazaHaunaKusnadi/database"
+	"github.com/dzikrifazahk/task-5-pbi-btpns-DzikriFazaHaunaKusnadi/models"
 )
 
 // show data photo
