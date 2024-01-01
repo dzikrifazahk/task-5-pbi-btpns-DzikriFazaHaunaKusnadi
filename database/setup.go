@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/marvellzulfikar/task-5-pbi-btpns-MuhammadMarvellZulfikar/models"
+	"github.com/dzikrifazahk/task-5-pbi-btpns-DzikriFazaHaunaKusnadi/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

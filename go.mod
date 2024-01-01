@@ -1,4 +1,4 @@
-module github.com/marvellzulfikar/task-5-pbi-btpns-MuhammadMarvellZulfikar
+module github.com/dzikrifazahk/task-5-pbi-btpns-DzikriFazaHaunaKusnadi
 
 go 1.21.5
 
